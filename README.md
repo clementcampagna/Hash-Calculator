@@ -6,7 +6,7 @@ It relies on CertUtil by default (except for CRC32 hash calculation) but a switc
 \
 Download Hash Calculator and see it for yourself today!\
 \
-[![Hash-Calculator-v1.0.0.0.jpg](/Hash%Calculator%20v1.0.0.0.jpg)](https://github.com/clementcampagna/Hash-Calculator/releases/download/v1.0.0.0/Hash.Calculator.v1.0.0.0.zip)
+[![Hash-Calculator-v1.0.0.0.jpg](/Hash%20Calculator%20v1.0.0.0.jpg)](https://github.com/clementcampagna/Hash-Calculator/releases/download/v1.0.0.0/Hash.Calculator.v1.0.0.0.zip)
 
 ### Usage:
 
